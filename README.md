@@ -7,8 +7,6 @@
 
 [![Python Version](https://img.shields.io/badge/python-3.8%2B-blue)](https://www.python.org/)
 [![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
-[![Status](https://img.shields.io/badge/status-Active%20Development-success)](https://github.com/Kuldip8975)
-[![Version](https://img.shields.io/badge/version-1.0.0--beta-orange)](https://github.com/Kuldip8975)
 
 **[🚀 Quick Start](#-installation--setup-guide)** • **[📖 Documentation](#-project-overview)** • **[🎯 Use Cases](#-real-world-impact)** • **[🤝 Contribute](#-contributing--community)**
 

@@ -6,7 +6,6 @@
 ![EnviroScan Banner](https://github.com/user-attachments/assets/66d1cfc1-def0-48cd-b9df-616fbf6f6c97)
 
 [![Python Version](https://img.shields.io/badge/python-3.8%2B-blue)](https://www.python.org/)
-[![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
 
 **[🚀 Quick Start](#-installation--setup-guide)** • **[📖 Documentation](#-project-overview)** • **[🎯 Use Cases](#-real-world-impact)** • **[🤝 Contribute](#-contributing--community)**
 
@@ -824,6 +823,3 @@ The dashboard presents several key sections:
 
 ## Historical Analysis
 <img width="548" height="399" alt="image" src="https://github.com/user-attachments/assets/d65feac9-87bb-4bf6-8faf-9dd8fee5167b" />
-
-
-For the latest updates and releases, visit https://github.com/Kuldip8975
